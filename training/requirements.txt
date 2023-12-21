@@ -9,3 +9,4 @@ deepspeed==0.9.2
 accelerate
 tensorboardX
 aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
